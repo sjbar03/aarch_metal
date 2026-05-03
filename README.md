@@ -10,3 +10,5 @@
         $ tar -xvf arm-gnu-toolchain-15.2.rel1-x86_64-aarch64-none-elf.tar.xz
         $ cd arm-gnu-toolchain-15.2.rel1-x86_64-aarch64-none-elf
         $ export PATH=$(pwd)/bin:$PATH
+
+## Notes
